@@ -15,3 +15,8 @@
 [В данном проекте](https://github.com/nnshoshin/projects/blob/main/praktikum_CV_Shoshin.ipynb) я строил модель, которая предназначена для определения возраста покупателей на кассах в магазине.
 
 Стек: pandas, numpy, matplotlib, tensorflow, keras, ResNet
+
+## 4. Прогнозирование спроса (временные ряды) 
+[В данном проекте](https://github.com/nnshoshin/projects/blob/main/praktikum_timeseries_shoshin.ipynb) я строил модель, которая прогнозировала спрос на такси в ближайший час. 
+
+Стек: pandas, numpy, matplotlib, catboost, анализ временных рядов. 
