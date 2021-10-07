@@ -10,3 +10,8 @@
 [В данном проекте](https://github.com/nnshoshin/projects/blob/main/praktikum_texts_shoshin.ipynb) я строил модель, которая классифицирует комментарии пользователей на токсичные и позитивные. 
 
 Стек: pandas, numpy, matplotlib, seaborn, sklearn, catboost, bert, лемматизация, регулярные выражения.
+
+## 3. Определение возраста по фотографиям (computer vision) 
+[В данном проекте](https://github.com/nnshoshin/projects/blob/main/praktikum_CV_Shoshin.ipynb) я строил модель, которая предназначена для определения возраста покупателей в магазине.
+
+Стек: pandas, numpy, matplotlib, tensorflow, keras, ResNet
